@@ -1,0 +1,19 @@
+body{
+    background-color: #F8F8F8!important;
+}
+col{
+    background-color: silver;
+    margin: 1rem;
+}
+img{
+    border-radius: 50%;
+    border-bottom: 5px solid green;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: -2rem;
+}
+li{
+    margin-right: 5px;
+}
